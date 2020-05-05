@@ -1,10 +1,10 @@
-﻿
+
 clear
 figlet PRANKERS | lolcat
 echo "====================================================
 
 # Coded   : Bartes Dwiky
-# Github  : Https://github.com/ClayHackerTeam
+# Github  : https://github.com/kepo55/mamank
 # Contact : galangnatiin021@gmail.com
 # Youtube : JKT Your Gaming
 
